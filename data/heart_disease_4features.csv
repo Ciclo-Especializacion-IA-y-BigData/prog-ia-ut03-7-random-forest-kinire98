@@ -1,4 +1,4 @@
-,age,sex,trestbps,chol,target
+id,age,sex,trestbps,chol,target
 0,52,1,125,212,0
 1,53,1,140,203,0
 2,70,1,145,174,0
